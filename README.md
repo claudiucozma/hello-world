@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+My comments:
+I want to learn programming.
